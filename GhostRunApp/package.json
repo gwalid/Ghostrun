@@ -20,7 +20,7 @@
     "expo": "^36.0.2",
     "expo-constants": "latest",
     "haversine": "^1.1.1",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-base64": "0.0.2",
